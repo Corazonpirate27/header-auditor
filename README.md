@@ -1,3 +1,9 @@
+![Python](https://img.shields.io/badge/Python-3.12-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-latest-green)
+![OWASP](https://img.shields.io/badge/OWASP-Headers-red)
+![Requests](https://img.shields.io/badge/Requests-latest-orange)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
 # HTTP Security Header Auditor
 
 A security tool that checks websites for missing HTTP security headers.
